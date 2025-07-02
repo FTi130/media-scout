@@ -2,7 +2,10 @@
 Media scouting app rewritten in Rust. 
 
 ## Description
-You drop a video/picture/folders with content. It spits all available metadata.
+You drop a video/picture/folders with content. 
+
+It spits all available metadata.
+
 Designed as a TUI with [Ratatui](https://ratatui.rs/)
 
 ## Requirements
