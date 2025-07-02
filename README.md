@@ -1,6 +1,8 @@
-# media-scout
-Media scouting app rewritten in Rust. Requires FFmpeg and Rust installed.
+# 🔍 media-scout 🔍
+Media scouting app rewritten in Rust. 
+
+## Description
+You drop a video/picture/folders with content. It spits all available metadata.
 
 ## Requirements
-
-You'll need FFmpeg to build this
+You'll need FFmpeg and Rust to run it.
